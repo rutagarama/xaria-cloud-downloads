@@ -1,17 +1,5 @@
-# Xaria Cloud downloads
+# Xaria Cloud updates
 
-Installers for **Xaria Cloud**, business software for shops, supermarkets, restaurants, pharmacies and hotels that keeps working with no internet.
+This repository serves updates to Xaria Cloud apps that are already installed. Installed apps update themselves; there is nothing to do here.
 
-Get the right installer for your computer from the website: **https://xaria-cloud.vercel.app/download**
-
-Or pick it from the latest release:
-
-| Computer | File |
-|---|---|
-| Windows 10 or 11 | `Xaria-Setup-<version>-x64.exe` |
-| Mac with Apple M chip | `Xaria-<version>-mac-arm64.dmg` |
-| Mac with Intel | `Xaria-<version>-mac-x64.dmg` |
-| Ubuntu or Debian | `.deb` |
-| Other Linux | `.AppImage` |
-
-Installed apps update themselves from this page. Need help installing? Book an installation on the website.
+**New shop?** Xaria Cloud is installed in your shop by our team, with your products, printer, EBM and staff set up. Book an installation: **https://xaria-cloud.vercel.app/get-started**
